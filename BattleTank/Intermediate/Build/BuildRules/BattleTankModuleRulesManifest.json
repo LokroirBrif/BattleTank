@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"B:\\Programmazione\\ProgettiUnrealEngine\\Progetti Unreal Engine\\Corso\\BattleTank\\Source\\BattleTank\\BattleTank.Build.cs",
+		"B:\\Programmazione\\ProgettiUnrealEngine\\Progetti Unreal Engine\\Corso\\BattleTank\\Source\\BattleTank.Target.cs",
+		"B:\\Programmazione\\ProgettiUnrealEngine\\Progetti Unreal Engine\\Corso\\BattleTank\\Source\\BattleTankEditor.Target.cs"
+	],
+	"EngineVersion": "4.24.3"
+}
