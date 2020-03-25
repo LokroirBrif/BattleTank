@@ -278,6 +278,8 @@
     <ClInclude Include="..\..\Source\BattleTank\BattleTank.h"/>
     <ClCompile Include="..\..\Source\BattleTank\BattleTankGameModeBase.cpp"/>
     <ClInclude Include="..\..\Source\BattleTank\BattleTankGameModeBase.h"/>
+    <ClCompile Include="..\..\Source\BattleTank\MyAIController.cpp"/>
+    <ClInclude Include="..\..\Source\BattleTank\MyAIController.h"/>
     <ClCompile Include="..\..\Source\BattleTank\Tank.cpp"/>
     <ClInclude Include="..\..\Source\BattleTank\Tank.h"/>
     <ClCompile Include="..\..\Source\BattleTank\TankPlayerController.cpp"/>
