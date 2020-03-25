@@ -11,3 +11,4 @@ Battle tank game, developed in UE4 with simple AI and simple Controls
 6) Main menù screen added
 7) C++ Control initialized (not working)
 8) AimingSystem Initialized
+______________________________________________
