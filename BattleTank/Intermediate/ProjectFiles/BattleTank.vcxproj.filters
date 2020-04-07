@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\BattleTank.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{BAE1B546-2F4C-4C88-B788-6E63E2B80850}</UniqueIdentifier>
+      <UniqueIdentifier>{2D4692BD-710F-437B-90CF-AA255D01E5F6}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\BattleTank.Target.cs">
       <Filter>Source</Filter>
@@ -13,7 +13,7 @@
     </None>
     <None Include="..\..\.gitignore" />
     <Filter Include="Config">
-      <UniqueIdentifier>{4D3659F8-A313-4AC3-86E3-36F337538133}</UniqueIdentifier>
+      <UniqueIdentifier>{57BD9C8A-D54D-461E-B513-99C67E8FC79A}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -28,7 +28,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\BattleTank">
-      <UniqueIdentifier>{5D7A2AA1-E9EB-4FF3-BF0A-30A421A729C1}</UniqueIdentifier>
+      <UniqueIdentifier>{125525C3-EFCE-4DCE-9963-A39FED41BC6D}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\BattleTank\BattleTank.Build.cs">
       <Filter>Source\BattleTank</Filter>
@@ -63,5 +63,15 @@
     <ClInclude Include="..\..\Source\BattleTank\TankPlayerController.h">
       <Filter>Source\BattleTank</Filter>
     </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Source\BattleTank\TankAiming.h">
+      <Filter>Source\BattleTank</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Source\BattleTank\TankAiming.cpp">
+      <Filter>Source\BattleTank</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
